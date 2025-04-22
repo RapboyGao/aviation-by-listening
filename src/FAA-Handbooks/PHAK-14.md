@@ -19,6 +19,8 @@ Each time a pilot operates an aircraft, the flight normally begins and ends at a
 
 The definition for airports refers to any area of land or water used or intended for landing or takeoff of aircraft. This includes, within the five categories of airports listed below, special types of facilities including seaplane bases, heliports, and facilities to accommodate tilt rotor aircraft. An airport includes an area used or intended for airport buildings, facilities, as well as rights of way together with the buildings and facilities.
 
+<AudioPlayer src= "/PHAK/chapter-14/Airport Categories.MP3"></AudioPlayer>
+
 ## Preface
 
 The law defines airports by categories of airport activities, including commercial service, primary, cargo service, reliever, and general aviation airports, as shown below:
