@@ -113,9 +113,9 @@ Pilots must be aware of the limitations inherent in the visual scanning process.
 
 - Limit the amount of time that you focus on flight instruments or tablets.
 
-- Limit the amount of time that you focus on flight instruments or tablets.
-
 - Develop a strategic approach to scanning for traffic. Scan the entire sky and try not to focus straight ahead.
+
+<AudioPlayer src= "/PHAK/chapter-14/Best practices to see and avoid.MP3"></AudioPlayer>
 
 ### Pilot Deviations (PDs)
 
@@ -186,5 +186,7 @@ Detailed investigations of runway incursions over the past 10 years have identif
 Clear, concise, and effective pilot/controller communication is paramount to safe airport surface operations. You must fully understand and comply with all ATC instructions. It is mandatory to read back all runway “hold short” instructions verbatim.
 
 Taxiing on an unfamiliar airport can be very challenging, especially during hours of darkness or low visibility. A request may be made for progressive taxi instructions which include step by step taxi routing instructions. Ensure you have a current airport diagram, remain “heads-up” with eyes outside, and devote your entire attention to surface navigation per ATC clearance. All checklists should be completed while the aircraft is stopped. There is no place for non-essential chatter or other activities while maintaining vigilance during taxi. [Figure 14-48]
+
+<AudioPlayer src= "/PHAK/chapter-14/Causal Factors of Runway Incursions.MP3"></AudioPlayer>
 
 ![Figure 14-48. Heads-up, eyes outside.](./PHAK-14/14-48.jpeg)

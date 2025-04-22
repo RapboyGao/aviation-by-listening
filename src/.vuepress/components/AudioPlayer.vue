@@ -1,7 +1,7 @@
 <template>
   <ElCard>
     <template #header>
-      <div class="flex center">
+      <div class="flex-row center">
         <AVWaveform :src="src"> </AVWaveform>
       </div>
     </template>
