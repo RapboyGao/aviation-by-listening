@@ -7,6 +7,6 @@ export default navbar([
   },
   {
     text: "PHAK",
-    children: ["FAA-Handbooks/PHAK-14.md"],
+    children: ["FAA-Handbooks/PHAK/PHAK-14.md"],
   },
 ]);
