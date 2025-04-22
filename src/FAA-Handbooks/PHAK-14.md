@@ -96,6 +96,8 @@ The following procedures and considerations are in place to assist pilots in col
 
 High-wing and low-wing aircraft have their respective blind spots. The pilot of a high-wing aircraft should momentarily raise the wing in the direction of the intended turn and look for traffic prior to commencing the turn. The pilot of a low- wing aircraft should momentarily lower the wing and look for traffic prior to commencing the turn.
 
+<AudioPlayer src= "/PHAK/chapter-14/Collision Avoidance.MP3"></AudioPlayer>
+
 ### Training Operations
 
 Operators of pilot training programs are urged to adopt the following practices:
