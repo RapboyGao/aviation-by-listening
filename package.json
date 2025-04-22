@@ -1,0 +1,39 @@
+{
+  "name": "aviation-docs",
+  "description": "Aviation documentations",
+  "version": "1.0.0",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
+    "docs:update-package": "pnpm dlx vp-update"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.17.16",
+    "@types/node": "^22.14.0",
+    "@vuepress/bundler-vite": "2.0.0-rc.21",
+    "@vuepress/plugin-markdown-container": "2.0.0-rc.94",
+    "@vuepress/plugin-register-components": "2.0.0-rc.94",
+    "@vueuse/core": "^13.1.0",
+    "@vueuse/shared": "^13.1.0",
+    "axios": "^1.8.4",
+    "element-plus": "^2.9.7",
+    "katex": "^0.16.21",
+    "lodash": "^4.17.21",
+    "nanoid": "^5.1.5",
+    "sass-embedded": "^1.86.3",
+    "store2": "^2.14.4",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.21"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild"
+    ]
+  },
+  "dependencies": {
+    "vuepress-theme-hope": "2.0.0-rc.81"
+  }
+}
