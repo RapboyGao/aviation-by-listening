@@ -6,10 +6,6 @@ export default navbar([
     text: "Home",
   },
   {
-    text: "PEPEC",
-    children: ["/Notes/pepec/pepec-900s.html", "/Notes/pepec/pepec-stories.html", "/Notes/pepec/pepec-choosing.html"],
-  },
-  {
     text: "Study",
     children: [
       {
