@@ -12,9 +12,9 @@ const baseUrl = (process.env?.BASE_URL as BaseUrl) ?? "/";
 export default defineUserConfig({
   base: baseUrl,
   head,
-  lang: "zh-CN",
-  title: "Aviation Docs",
-  description: "Documents and notes about aviation knowledge",
+  lang: "en-US",
+  title: "Aviation Docs Listening",
+  description: "Listen to documents and notes about aviation knowledge",
   plugins: [
     cardContainerPlugin,
     quesContainerPlugin,
