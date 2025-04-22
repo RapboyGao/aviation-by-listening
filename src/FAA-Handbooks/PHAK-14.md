@@ -152,6 +152,8 @@ A runway incursion is “any occurrence in the airport runway environment involv
 - Study and use proper phraseology in order to understand and respond to ground control instructions.
 - Write down complex taxi instructions at unfamiliar airports.
 
+<AudioPlayer src= "/PHAK/chapter-14/Runway-Incursion-01.MP3"></AudioPlayer>
+
 Approximately three runway incursions occur each day at towered airports within the United States. The potential that these numbers present for a catastrophic accident is unacceptable. The following are examples of pilot deviations, operational incidents (OI), and vehicle (driver) deviations that may lead to runway incursions.
 
 Pilot Deviations:
@@ -170,6 +172,8 @@ Vehicle (Driver) Deviations:
 - Crossing a runway hold marking without ATC clearance
 
 According to FAA data, approximately 65 percent of all runway incursions are caused by pilots. Of the pilot runway incursions, FAA data shows almost half of those incursions are caused by GA pilots.
+
+<AudioPlayer src= "/PHAK/chapter-14/Runway-Incursion-02.MP3"></AudioPlayer>
 
 ### Causal Factors of Runway Incursions
 
