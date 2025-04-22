@@ -3,7 +3,7 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://aviation-docs2.vercel.app",
+  hostname: "https://aviation-by-listening.vercel.app",
 
   author: {
     name: "Albert Gao",
