@@ -105,6 +105,8 @@ Pilots must be aware of the limitations inherent in the visual scanning process.
 - The attitude of the aircraft will create additional blind spots.
 - The physical limitations of the human eye, including the time required to (re)focus on near and far objects, from the instruments to the horizon for example; empty field myopia, narrow field of vision and atmospheric lighting all affect our ability to detect another aircraft.
 
+<AudioPlayer src= "/PHAK/chapter-14/Scanning Techniques for Traffic Avoidance.MP3"></AudioPlayer>
+
 #### Best practices to see and avoid:
 
 - ADS-B In is an effective system to help pilots see and avoid other aircraft. If your aircraft is equipped with ADS-B In, it is important to understand its features and how to use it properly. Many units provide visual and/or audio alerts to supplement the system's traffic display. Pilots should incorporate the traffic display in their normal traffic scan to provide awareness of nearby aircraft. Prior to taxiing onto an airport movement area, ADS-B In can provide advance indication of arriving aircraft and aircraft in the traffic pattern. Systems that incorporate a traffic- alerting feature can help minimize the pilot's inclination to fixate on the display. Refer to 4-57e, ADS-B Limitations.
