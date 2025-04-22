@@ -16,7 +16,7 @@
   // 	"description": "Log output to console"
   // }
   "AudioPlayer": {
-    "scope": "md",
+    "scope": "markdown",
     "prefix": "AudioPlayer",
     "body": ["<AudioPlayer src= \"$0\"></AudioPlayer>"],
     "description": "Audio Player snippet"
