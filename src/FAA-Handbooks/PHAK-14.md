@@ -69,8 +69,7 @@ Wake turbulence has historically been thought of as only a function of aircraft 
 
 #### En Route
 
-En route wake turbulence events have been influenced by changes to the aircraft fleet mix that have more “Super” (A380) and “Heavy” (B-747, B-777, A340, etc.) aircraft
-operating in the NAS. There have been wake turbulence events in excess of 30NM and 2000 feet lower than the wake generating aircraft. Air density is also a factor in wake strength. Even though the speeds are higher in cruise at high altitude, the reduced air density may result in wake strength comparable to that in the terminal area. In addition, for a given separation distance, the higher speeds in cruise result in less time for the wake to decay before being encountered by a trailing aircraft.
+En route wake turbulence events have been influenced by changes to the aircraft fleet mix that have more “Super” (A380) and “Heavy” (B-747, B-777, A340, etc.) aircraft operating in the NAS. There have been wake turbulence events in excess of 30NM and 2000 feet lower than the wake generating aircraft. Air density is also a factor in wake strength. Even though the speeds are higher in cruise at high altitude, the reduced air density may result in wake strength comparable to that in the terminal area. In addition, for a given separation distance, the higher speeds in cruise result in less time for the wake to decay before being encountered by a trailing aircraft.
 
 <AudioPlayer src= "/PHAK/chapter-14/Vortex Strength-Enroute.MP3"></AudioPlayer>
 
@@ -81,6 +80,8 @@ Trailing vortices have certain behavioral characteristics that can help a pilot 
 Vortices are generated from the moment an aircraft leaves the ground (until it touches down), since trailing vortices are the byproduct of wing lift. [Figure 14-46] The vortex circulation is outward, upward, and around the wingtips when viewed from either ahead or behind the aircraft. Tests with large aircraft have shown that vortices remain spaced a bit less than a wingspan apart, drifting with the wind, at altitudes greater than a wingspan from the ground. Tests have also shown that the vortices sink at a rate of several hundred feet per minute, slowing their descent and diminishing in strength with time and distance behind the generating aircraft.
 
 When the vortices of larger aircraft sink close to the ground (within 100 to 200 feet), they tend to move laterally over the ground at a speed of 2–3 knots. A crosswind decreases the lateral movement of the upwind vortex and increases the movement of the downwind vortex. A light quartering tailwind presents the worst case scenario as the wake vortices could be all present along a significant portion of the final approach and extended centerline and not just in the touchdown zone as typically expected.
+
+<AudioPlayer src= "/PHAK/chapter-14/Vortex Behavior.MP3"></AudioPlayer>
 
 ## Collision Avoidance
 
