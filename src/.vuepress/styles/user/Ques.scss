@@ -1,0 +1,83 @@
+.question {
+	display: inline;
+	user-select: none;
+}
+.question-card {
+	padding: 15px 15px 15px 15px;
+	box-shadow: rgba(120, 120, 120, 0.2) 5px 5px 5px;
+	border-radius: 5px;
+	border: rgba(150, 150, 150, 0.2) 1px solid;
+	margin-bottom: 10px;
+}
+.answer {
+	display: inline;
+	font-weight: bold;
+	text-decoration: {
+		line: underline;
+		style: solid;
+		color: #888;
+		width: 3px;
+		filter: invert(90%);
+		// skip-ink: none;
+	}
+}
+// .answer.visible {
+// 	// color: rgb(38, 98, 155);
+// 	// filter: invert(100%);
+// }
+.answer.invisible {
+	color: rgba(255, 255, 255, 0);
+	text-decoration: {
+		skip-ink: none;
+	}
+}
+.color-grey {
+	color: #999;
+}
+.auto-wrap {
+	//自动换行、空格敏感
+	white-space: pre-wrap;
+	word-break: break-word;
+}
+.center {
+	text-align: center;
+	margin: 0 auto;
+}
+.align-right {
+	text-align: right;
+}
+.auto-hide-text {
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.inline-block {
+	display: inline-block;
+}
+.overflow-auto {
+	overflow: auto;
+}
+.overflow-scroll {
+	overflow: scroll;
+}
+.inline-block {
+	display: inline-block;
+}
+.inline {
+	display: inline;
+}
+.blur-bright {
+	filter: blur(15px);
+}
+.blur-dark {
+	filter: blur(15px) brightness(70%);
+}
+.trans-500 {
+	transition: all 500ms;
+}
+.bg-red {
+	background-color: red;
+}
+.question-container {
+	margin: 10px 10px 10px 10px;
+}
