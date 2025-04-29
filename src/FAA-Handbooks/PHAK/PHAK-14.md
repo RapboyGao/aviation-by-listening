@@ -81,7 +81,7 @@ Vortices are generated from the moment an aircraft leaves the ground (until it t
 
 When the vortices of larger aircraft sink close to the ground (within 100 to 200 feet), they tend to move laterally over the ground at a speed of 2–3 knots. A crosswind decreases the lateral movement of the upwind vortex and increases the movement of the downwind vortex. A light quartering tailwind presents the worst case scenario as the wake vortices could be all present along a significant portion of the final approach and extended centerline and not just in the touchdown zone as typically expected.
 
-<AudioPlayer src= "/PHAK/chapter-14/Trailing vortices have certain behavioral characte.mp3"></AudioPlayer>
+<AudioPlayer src= "/PHAK/chapter-14/Trailing vortices have certain behavioral characte copy.mp3"></AudioPlayer>
 
 ## Collision Avoidance
 
@@ -94,9 +94,9 @@ The following procedures and considerations are in place to assist pilots in col
 - Traffic at VOR sites—due to converging traffic, sustained vigilance should be maintained in the vicinity of VORs and intersections.
 - Training operations—vigilance should be maintained and clearing turns should be made prior to a practice maneuver. During instruction, the pilot should be asked to verbalize the clearing procedures (call out “clear left, right, above, and below”).
 
-High-wing and low-wing aircraft have their respective blind spots. The pilot of a high-wing aircraft should momentarily raise the wing in the direction of the intended turn and look for traffic prior to commencing the turn. The pilot of a low- wing aircraft should momentarily lower the wing and look for traffic prior to commencing the turn.
+High-wing and low-wing aircraft have their respective blind spots. The pilot of a high-wing aircraft should momentarily raise the wing in the direction of the intended turn and look for traffic prior to commencing the turn. The pilot of a low-wing aircraft should momentarily lower the wing and look for traffic prior to commencing the turn.
 
-<AudioPlayer src= "/PHAK/chapter-14/The following procedures and considerations are in.mp3"></AudioPlayer>
+<AudioPlayer src= "/PHAK/chapter-14/The following procedures and considerations are in copy.mp3"></AudioPlayer>
 
 ### Training Operations
 
