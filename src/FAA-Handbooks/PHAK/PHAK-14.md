@@ -211,10 +211,14 @@ Detailed investigations of runway incursions over the past 10 years have identif
 - Lack of airport familiarity
 - Nonconformance with standard operating procedures
 
+<AudioPlayer src= "/PHAK/chapter-14/Detailed investigations of runway incursions.mp3"></AudioPlayer>
+
 Clear, concise, and effective pilot/controller communication is paramount to safe airport surface operations. You must fully understand and comply with all ATC instructions. It is mandatory to read back all runway “hold short” instructions verbatim.
+
+<AudioPlayer src= "/PHAK/chapter-14/clear concise.mp3"></AudioPlayer>
 
 Taxiing on an unfamiliar airport can be very challenging, especially during hours of darkness or low visibility. A request may be made for progressive taxi instructions which include step by step taxi routing instructions. Ensure you have a current airport diagram, remain “heads-up” with eyes outside, and devote your entire attention to surface navigation per ATC clearance. All checklists should be completed while the aircraft is stopped. There is no place for non-essential chatter or other activities while maintaining vigilance during taxi. [Figure 14-48]
 
-<AudioPlayer src= "/PHAK/chapter-14/Detailed investigations of runway incursions over.mp3"></AudioPlayer>
+<AudioPlayer src= "/PHAK/chapter-14/Taxiing on an unfamiliar airport.mp3"></AudioPlayer>
 
 ![Figure 14-48. Heads-up, eyes outside.](./PHAK-14/14-48.jpeg)
