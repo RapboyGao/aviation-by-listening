@@ -11,6 +11,6 @@ export default navbar([
   },
   {
     text: "AC",
-    children: ["FAA-Handbooks/AC/AC120-51E.md", "FAA-Handbooks/AC/AC120-108A"],
+    children: ["FAA-Handbooks/AC/AC90-117.md", "FAA-Handbooks/AC/AC120-51E.md", "FAA-Handbooks/AC/AC120-108A"],
   },
 ]);
