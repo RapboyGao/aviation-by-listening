@@ -1,4 +1,24 @@
 {
-  "cSpell.words": ["ACARS", "CDFA", "CFIT", "Changi", "CPDLC", "decisionmaking", "FLIGHTCREW", "GBAS", "LNAV", "niner", "Pepec", "PHAK", "RNAV", "subnetworks", "TDZE", "tousand", "VNAV", "VPATH"],
+  "cSpell.words": [
+    "ACARS",
+    "CDFA",
+    "CFIT",
+    "Changi",
+    "CPDLC",
+    "decisionmaking",
+    "FCTM",
+    "FLIGHTCREW",
+    "GBAS",
+    "LNAV",
+    "niner",
+    "Pepec",
+    "PHAK",
+    "RNAV",
+    "subnetworks",
+    "TDZE",
+    "tousand",
+    "VNAV",
+    "VPATH"
+  ],
   "files.autoSave": "afterDelay"
 }

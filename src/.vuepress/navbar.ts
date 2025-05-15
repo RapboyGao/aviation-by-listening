@@ -6,6 +6,15 @@ export default navbar([
     text: "Home",
   },
   {
+    text: "Boeing",
+    children: [
+      {
+        text: "737 FCTM",
+        children: ["Boeing/737-FCTM/737-FCTM-01.md"],
+      },
+    ],
+  },
+  {
     text: "PHAK",
     children: ["FAA-Handbooks/PHAK/PHAK-14.md"],
   },
