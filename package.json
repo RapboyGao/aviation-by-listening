@@ -15,7 +15,7 @@
     "@types/node": "^22.14.0",
     "@vuepress/bundler-vite": "2.0.0-rc.21",
     "@vuepress/plugin-markdown-container": "2.0.0-rc.94",
-    "@vuepress/plugin-pwa": "2.0.0-rc.105",
+    "@vuepress/plugin-pwa": "2.0.0-rc.23",
     "@vuepress/plugin-register-components": "2.0.0-rc.94",
     "@vueuse/core": "^13.1.0",
     "@vueuse/shared": "^13.1.0",
