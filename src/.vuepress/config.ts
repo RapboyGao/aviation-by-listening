@@ -8,7 +8,6 @@ import head from "./misc/head";
 import theme from "./theme";
 type BaseUrl = "/" | `/${string}/` | undefined;
 const baseUrl = (process.env?.BASE_URL as BaseUrl) ?? "/";
-import { pwaPlugin } from "@vuepress/plugin-pwa";
 
 export default defineUserConfig({
   base: baseUrl,
@@ -22,10 +21,6 @@ export default defineUserConfig({
     quesContainerPlugin,
     registerComponentsPlugin({
       componentsDir: Path.resolve(__dirname, "./components"),
-    }),
-    pwaPlugin({
-      // 1MB
-      maxSize: 1024 * 1024,
     }),
   ],
   theme,

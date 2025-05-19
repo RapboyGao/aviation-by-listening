@@ -1,6 +1,7 @@
 import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
+import pwa from "./misc/pwa";
 
 export default hopeTheme({
   hostname: "https://aviation-by-listening.vercel.app",
@@ -125,6 +126,6 @@ export default hopeTheme({
     // icon: {
     //   prefix: "fa6-solid:",
     // },
-    // pwa,
+    pwa,
   },
 });
