@@ -1,43 +1,19 @@
-name: Deploy to GitHub Pages
-
+name: Deploy Docs
 on:
   push:
-    branches:
-      - main # 根据实际分支名称调整
-
+    branches: [main] # 监听 main 分支的推送
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
-
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v2 # 使用 pnpm 包管理器
+      - uses: actions/setup-node@v4
         with:
-          fetch-depth: 0
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-          cache: "npm" # 改为npm缓存
-
-      - name: Clean up pnpm files # 新增步骤：移除pnpm相关文件
-        run: |
-          rm -f .pnpmrc
-          rm -f pnpm-lock.yaml
-
-      - name: Install dependencies
-        run: npm ci # 使用npm安装依赖
-
-      - name: Build VuePress site
-        run: npm run docs:build # 改为npm执行脚本
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+          cache: "pnpm"
+      - run: pnpm install
+      - run: pnpm docs:build # 执行构建命令
+      - uses: peaceiris/actions-gh-pages@v3 # 部署到 gh-pages
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: src/.vuepress/dist
-          keep_files: true
-          force_orphan: true
+          publish_dir: src/.vuepress/dist # VuePress 默认输出目录
