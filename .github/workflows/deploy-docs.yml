@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main # 根据你的默认分支名称调整（可能是master）
+      - main # 根据实际分支名称调整
 
 jobs:
   deploy:
@@ -15,27 +15,29 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # 需要获取所有历史提交记录用于版本信息
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-          cache: "pnpm"
+          cache: "npm" # 改为npm缓存
 
-      - name: Setup pnpm
-        run: corepack enable && corepack prepare pnpm@latest --activate
+      - name: Clean up pnpm files # 新增步骤：移除pnpm相关文件
+        run: |
+          rm -f .pnpmrc
+          rm -f pnpm-lock.yaml
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: npm ci # 使用npm安装依赖
 
       - name: Build VuePress site
-        run: pnpm run docs:build
+        run: npm run docs:build # 改为npm执行脚本
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: src/.vuepress/dist # VuePress默认输出目录
-          keep_files: true # 保留现有文件（适用于自定义域名等配置）
-          force_orphan: true # 强制使用单次提交
+          publish_dir: src/.vuepress/dist
+          keep_files: true
+          force_orphan: true
