@@ -8,6 +8,8 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: pnpm/action-setup@v2 # 使用 pnpm 包管理器
+        with:
+          version: 8.9.0 # 设置 pnpm 版本
       - uses: actions/setup-node@v4
         with:
           cache: "pnpm"
