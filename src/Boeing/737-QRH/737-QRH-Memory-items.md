@@ -91,3 +91,5 @@ Note: Aft control column force increases as the airspeed decreases. In all cases
 Note: Do not use flight director commands.
 
 Note: \*Maximum thrust can be obtained by advancing the thrust levers full forward if the EECs are in the normal mode. If terrain contact is imminent, advance thrust levers full forward.
+
+<AudioPlayer src= "/Boeing/737QRH-Memory-Items/GPWS Warning.mp3"></AudioPlayer>
