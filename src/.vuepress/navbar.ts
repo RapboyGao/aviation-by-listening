@@ -12,6 +12,10 @@ export default navbar([
         text: "737 FCTM",
         children: ["Boeing/737-FCTM/737-FCTM-01.md", "Boeing/737-FCTM/737-FCTM-03.md", "Boeing/737-FCTM/737-FCTM-06.md"],
       },
+      {
+        text: "737 QRH",
+        children: ["Boeing/737-QRH/737-QRH-Memory-items.md"],
+      },
     ],
   },
   {
