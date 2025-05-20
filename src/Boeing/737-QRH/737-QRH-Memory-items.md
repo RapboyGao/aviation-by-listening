@@ -74,3 +74,20 @@ Passenger signs - On
 - Re-engage the autopilot and autothrottle if desired.
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/Approach to Stall or Stall Recovery.mp3"></AudioPlayer>
+
+## GPWS Warning
+
+- Disengage autopilot.
+- Disengage autothrottle.
+- Aggressively apply maximum\* thrust.
+- Simultaneously roll wings level and rotate to an initial pitch attitude of 20°.
+- Retract speedbrakes.
+- If terrain remains a threat, continue rotation up to the pitch limit indicator (if available) or stick shaker or initial buffet.
+- Do not change gear or flap configuration until terrain separation is assured. Monitor radio altimeter for sustained or increasing terrain separation.
+- When clear of terrain, slowly decrease pitch attitude and accelerate.
+
+Note: Aft control column force increases as the airspeed decreases. In all cases, the pitch attitude that results in intermittent stick shaker or initial buffet is the upper pitch attitude limit. Flight at intermittent stick shaker may be needed to obtain a positive terrain separation. Use smooth, steady controls to avoid a pitch attitude overshoot and stall.
+
+Note: Do not use flight director commands.
+
+Note: \*Maximum thrust can be obtained by advancing the thrust levers full forward if the EECs are in the normal mode. If terrain contact is imminent, advance thrust levers full forward.
