@@ -1,6 +1,6 @@
 {
-  "name": "aviation-docs",
-  "description": "Aviation documentations",
+  "name": "aviation-docs-listening",
+  "description": "Aviation documentations listening.",
   "version": "1.0.0",
   "license": "MIT",
   "type": "module",

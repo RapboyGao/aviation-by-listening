@@ -5,7 +5,7 @@ import pwa from "./misc/pwa";
 
 export default hopeTheme({
   hostname: "https://aviation-by-listening.vercel.app",
-
+  favicon: "/assets/icon/IMG_0485.JPG",
   author: {
     name: "Albert Gao",
     url: "https://gitee.com/AlbertGao",
