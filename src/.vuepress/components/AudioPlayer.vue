@@ -1,19 +1,18 @@
 <template>
-  <ElCard>
-    <template #header>
-      <div class="flex-row center">
-        <AVWaveform :src="src"> </AVWaveform>
-      </div>
-    </template>
+  <div class="el-card padding-vertical">
+    <div class="flex-row center">
+      <AVWaveform :src="src"> </AVWaveform>
+    </div>
+    <ElDivider></ElDivider>
     <div class="flex center">
       <ElLink target="_blank" :href="src" download type="primary"> Download </ElLink>
     </div>
-  </ElCard>
+  </div>
 </template>
 <script setup lang="ts">
 import { AVWaveform } from "vue-audio-visual";
 import { defineProps } from "vue";
-import { ElCard, ElLink } from "element-plus";
+import { ElLink, ElDivider } from "element-plus";
 const props = defineProps<{
   src: string;
 }>();
