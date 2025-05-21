@@ -10,7 +10,7 @@ export default navbar([
     children: [
       {
         text: "737 FCTM",
-        children: ["Boeing/737-FCTM/737-FCTM-01.md", "Boeing/737-FCTM/737-FCTM-03.md", "Boeing/737-FCTM/737-FCTM-06.md"],
+        children: ["Boeing/737-FCTM/737-FCTM-01.md", "Boeing/737-FCTM/737-FCTM-03.md", "Boeing/737-FCTM/737-FCTM-04.md", "Boeing/737-FCTM/737-FCTM-06.md"],
       },
       {
         text: "737 QRH",
