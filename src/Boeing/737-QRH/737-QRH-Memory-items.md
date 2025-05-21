@@ -203,3 +203,20 @@ Complete the Recovery:
 WARNING: \* Excessive use of pitch trim or rudder can aggravate an upset, result in loss of control, or result in high structural loads.
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/Nose Low Recovery - Pilot Flying.mp3"></AudioPlayer>
+
+## Windshear
+
+Note: The following are indications the airplane is in windshear:
+
+- windshear warning (two–tone siren followed by “WINDSHEAR, WINDSHEAR, WINDSHEAR”) or
+- unacceptable flight path deviations.
+
+Note: Unacceptable flight path deviations are recognized as uncontrolled changes from normal steady state flight conditions below 1000 feet AGL, in excess of any of the following:
+
+- 15 knots indicated airspeed
+- 500 fpm vertical speed
+- 5° pitch attitude
+- 1 dot displacement from the glideslope
+- unusual thrust lever position for a significant period of time.
+
+<AudioPlayer src= "/Boeing/737QRH-Memory-Items/indications the airplane is in windshear.mp3"></AudioPlayer>
