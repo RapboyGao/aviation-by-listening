@@ -220,3 +220,34 @@ Note: Unacceptable flight path deviations are recognized as uncontrolled changes
 - unusual thrust lever position for a significant period of time.
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/indications the airplane is in windshear.mp3"></AudioPlayer>
+
+## Windshear Escape Maneuver - Pilot Flying
+
+### MANUAL FLIGHT
+
+- Disengage autopilot.
+- Push either TO/GA switch.
+- Aggressively apply maximum thrust\*
+- Disengage autothrottle.
+- Simultaneously roll wings level and rotate toward an initial pitch attitude of 15 °.
+- Retract speedbrakes.
+- Follow flight director TO/GA guidance (if available)\*\*
+
+### MANUAL OR AUTOMATIC FLIGHT
+
+- Do not change flap or gear configuration until windshear is no longer a factor.
+- Maintain wings level to maximize climb gradient, unless a turn is required for obstacle clearance
+- Monitor vertical speed and altitude.
+- Do not attempt to regain lost airspeed until windshear is no longer a factor.
+
+Note: Aft control column force increases as the airspeed decreases. In all cases, the pitch attitude that results in intermittent stick shaker or initial buffet is the upper pitch attitude limit. Flight at intermittent stick shaker may be needed to obtain a positive terrain separation. Use smooth, steady controls to avoid a pitch attitude overshoot and stall.
+
+Note: \*Maximum thrust can be obtained by advancing the thrust levers full forward if the EECs are in the normal mode. If terrain contact is imminent, advance thrust levers full forward.
+
+Note: \*\*Do not exceed the Pitch Limit Indication.
+
+Note: \*\*\* If TO/GA is not available, disengage autopilot and autothrottle and fly manually.
+
+WARNING: \*\*\*\* Severe windshear can exceed the performance of the AFDS. Be prepared to disengage the autopilot and autothrottle and fly manually.
+
+<AudioPlayer src= "/Boeing/737QRH-Memory-Items/Windshear Escape Maneuver - Pilot Flying.mp3"></AudioPlayer>
