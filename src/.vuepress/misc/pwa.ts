@@ -6,8 +6,9 @@ const pwa: PwaPluginOptions = {
   cacheHTML: true,
   cacheImage: true,
   appendBase: true,
+
   apple: {
-    icon: "/assets/icon/apple-icon-152.png",
+    icon: "/assets/icon/IMG_0483.JPG",
     statusBarColor: "black",
   },
   maxSize: 1024 * 1024,
