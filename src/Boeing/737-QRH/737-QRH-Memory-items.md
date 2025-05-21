@@ -158,4 +158,48 @@ Historically, an upset was defined as unintentionally exceeding one or more of t
 - Bank angle greater than 45 degrees
 - Less than the above parameters but flying at an airspeed inappropriate for the conditions.
 
-## Windshear
+<AudioPlayer src= "/Boeing/737QRH-Memory-Items/Upset Definition.mp3"></AudioPlayer>
+
+### Nose High Recovery - Pilot Flying
+
+Recognize and confirm the developing situation
+
+Disengage autopilot.
+Disengage autothrottle.
+
+Recover:
+
+- Apply nose-down elevator. Apply as much elevator as needed to obtain a nose down pitch rate
+- Apply appropriate nose down stabilizer trim\*
+- Reduce thrust
+- Roll (adjust bank angle) to obtain a nose down pitch rate.\*
+
+Complete the recovery:
+
+- When approaching the horizon, roll to wings level
+- Check airspeed and adjust thrust
+- Establish pitch attitude.
+
+<AudioPlayer src= "/Boeing/737QRH-Memory-Items/Nose High Recovery - Pilot Flying.mp3"></AudioPlayer>
+
+### Nose Low Recovery - Pilot Flying
+
+Recognize and confirm the developing situation
+
+Disengage autopilot.
+Disengage autothrottle.
+
+Recover:
+
+- Recover from stall, if needed
+- Roll in the shortest direction to wings level. If bank angle is more than 90 degrees, unload and roll. \*
+
+Complete the Recovery:
+
+- Apply nose up elevator
+- Apply nose up trim, if needed \*
+- Adjust thrust and drag, if needed.
+
+WARNING: \* Excessive use of pitch trim or rudder can aggravate an upset, result in loss of control, or result in high structural loads.
+
+<AudioPlayer src= "/Boeing/737QRH-Memory-Items/Nose Low Recovery - Pilot Flying.mp3"></AudioPlayer>
