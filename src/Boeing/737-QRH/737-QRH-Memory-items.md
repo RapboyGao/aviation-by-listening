@@ -7,16 +7,20 @@ tag:
 tocLevels: 10
 ---
 
-## Emergency Descent
+### Emergency Descent
+
+::: info Condition
 
 - Condition: One or more of these occur:
 
   - Cabin altitude cannot be controlled
   - A rapid descent is needed.
 
+:::
+
 - Announce the emergency descent. The pilot flying will advise the cabin crew, on the PA system, of impending rapid descent. The pilot monitoring will advise ATC and obtain the area altimeter setting.
 
-Passenger signs - On
+- Passenger signs - On
 
 - **Without delay**, descend to the lowest safe altitude or 10,000 feet, whichever is higher.
 
@@ -32,32 +36,58 @@ Passenger signs - On
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/Emergency Descent.mp3"></AudioPlayer>
 
-## CABIN ALTITUDE WARNING or Rapid Depressurization
+### CABIN ALTITUDE WARNING or Rapid Depressurization
 
-- Condition: One or more of these occur:
+::: info Condition
+
+One or more of these occur:
+
 - A cabin altitude exceedance
 - In flight, the intermittent cabin altitude/configuration warning horn sounds or a CABIN ALTITUDE light illuminates.
+
+:::
 
 - Don oxygen masks and set regulators to 100%.
 - Establish crew communications.
 - Pressurization mode selector - MAN
 - Outflow VALVE switch - Hold in CLOSE until the outflow VALVE indication shows fully closed
 - If cabin altitude is uncontrollable:
-  Passenger signs - ON
-  PASS OXYGEN switch - ON
+  - Passenger signs - ON
+  - PASS OXYGEN switch - ON
 - Go to the Emergency Descent checklist on page 0.1
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/CABIN ALTITUDE WARNING or Rapid Depressurization.mp3"></AudioPlayer>
 
-## Approach to Stall or Stall Recovery
+### Engine Limit or Surge or Stall
 
-### Initiate the recovery
+::: info Condition
+
+One or more of these occur:
+
+- Engine indications are abnormal
+- Engine indications are rapidly approaching or exceeding limits
+- Abnormal engine noises are heard, possibly with airframe vibration
+- There is no response to thrust lever movement or the response is abnormal
+- Flames in the engine inlet or exhaust are reported.
+
+Objective: To attempt to recover normal engine operation or shut down the engine if recovery is not possible.
+
+:::
+
+- Autothrottle (if engaged) - Disengage
+- Thrust lever(affected engine) - Confirm - Retard until engine indications stay within limits or the thrust lever is closed
+
+<AudioPlayer src= "/Boeing/737QRH-Memory-Items/Engine Limit or Surge or Stall.mp3"></AudioPlayer>
+
+### Approach to Stall or Stall Recovery
+
+#### Initiate the recovery
 
 - Hold the control column firmly.
 - Disengage autopilot and autothrottle.
 - Smoothly apply nose down elevator to reduce the angle of attack until buffet or stick shaker stops. Nose down stabilizer trim can be needed. \*
 
-### Continue the recovery
+#### Continue the recovery
 
 - Roll in the shortest direction to wings level if needed.\*\*
 - Advance thrust levers as needed.
@@ -65,7 +95,7 @@ Passenger signs - On
 - Do not change gear or flap configuration, except
   - During liftoff, if flaps are up, call for flaps 1.
 
-### Complete the recovery
+#### Complete the recovery
 
 - Check airspeed and adjust thrust as
   needed.
@@ -75,7 +105,7 @@ Passenger signs - On
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/Approach to Stall or Stall Recovery.mp3"></AudioPlayer>
 
-## GPWS Warning
+### GPWS Warning
 
 - Disengage autopilot.
 - Disengage autothrottle.
@@ -94,7 +124,7 @@ Note: \*Maximum thrust can be obtained by advancing the thrust levers full forwa
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/GPWS Warning.mp3"></AudioPlayer>
 
-## Rejected Takeoff
+### Rejected Takeoff
 
 Before 80 knots, reject the takeoff for any of the following:
 
@@ -119,7 +149,7 @@ Above 80 knots and before V1, reject the takeoff for any of the following:
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/Reject Take Items.mp3"></AudioPlayer>
 
-### Captain
+#### Captain
 
 Without delay:
 Simultaneously close the thrust levers, disengage the autothrottles and apply maximum manual wheel brakes or verify operation of RTO autobrake.
@@ -149,7 +179,7 @@ Consider the following:
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/Rejected Takeoff Captain.mp3"></AudioPlayer>
 
-## Upset Recovery
+### Upset Recovery
 
 Historically, an upset was defined as unintentionally exceeding one or more of the following conditions:
 
@@ -160,7 +190,7 @@ Historically, an upset was defined as unintentionally exceeding one or more of t
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/Upset Definition.mp3"></AudioPlayer>
 
-### Nose High Recovery - Pilot Flying
+#### Nose High Recovery - Pilot Flying
 
 Recognize and confirm the developing situation
 
@@ -182,7 +212,7 @@ Complete the recovery:
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/Nose High Recovery - Pilot Flying.mp3"></AudioPlayer>
 
-### Nose Low Recovery - Pilot Flying
+#### Nose Low Recovery - Pilot Flying
 
 Recognize and confirm the developing situation
 
@@ -204,7 +234,7 @@ WARNING: \* Excessive use of pitch trim or rudder can aggravate an upset, result
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/Nose Low Recovery - Pilot Flying.mp3"></AudioPlayer>
 
-## Windshear
+### Windshear
 
 Note: The following are indications the airplane is in windshear:
 
@@ -221,9 +251,9 @@ Note: Unacceptable flight path deviations are recognized as uncontrolled changes
 
 <AudioPlayer src= "/Boeing/737QRH-Memory-Items/indications the airplane is in windshear.mp3"></AudioPlayer>
 
-## Windshear Escape Maneuver - Pilot Flying
+### Windshear Escape Maneuver - Pilot Flying
 
-### MANUAL FLIGHT
+#### MANUAL FLIGHT
 
 - Disengage autopilot.
 - Push either TO/GA switch.
@@ -233,7 +263,7 @@ Note: Unacceptable flight path deviations are recognized as uncontrolled changes
 - Retract speedbrakes.
 - Follow flight director TO/GA guidance (if available)\*\*
 
-### MANUAL OR AUTOMATIC FLIGHT
+#### MANUAL OR AUTOMATIC FLIGHT
 
 - Do not change flap or gear configuration until windshear is no longer a factor.
 - Maintain wings level to maximize climb gradient, unless a turn is required for obstacle clearance
