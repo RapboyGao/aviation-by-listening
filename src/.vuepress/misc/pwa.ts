@@ -8,7 +8,7 @@ const pwa: PwaPluginOptions = {
   appendBase: true,
 
   apple: {
-    icon: "/assets/icon/IMG_0483.JPG",
+    icon: "/assets/icon/IMG_0485.JPG",
     statusBarColor: "black",
   },
   maxSize: 1024 * 1024,
