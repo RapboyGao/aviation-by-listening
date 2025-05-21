@@ -28,7 +28,8 @@
     "TDZE",
     "tousand",
     "VNAV",
-    "VPATH"
+    "VPATH",
+    "Windshear"
   ],
   "files.autoSave": "afterDelay"
 }
