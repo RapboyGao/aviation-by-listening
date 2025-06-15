@@ -68,3 +68,7 @@ Verify both the fixed and retractable landing light lenses are clean and not dam
 Verify the leading edge flaps are retracted.
 
 <AudioPlayer src= "/Boeing/737ExteriorInspection/007 Right Wing Root.mp3"></AudioPlayer>
+
+## Number 2 Engine
+
+The engine inlets and tailpipes are clear, the access panels are secured, the fan cowls are latched, the exterior, including the bottom of the nacelles, is not damaged, and the reversers are stowed
