@@ -48,8 +48,8 @@ Let's proceed to the Right Forward Fuselage now.
 
 If night flight is possible, call the cockpit to check the external lights.
 Check the right angle of attack vane, first officer's Pitot tube and auxiliary Pitot tube to ensure they are clear, not damaged and not blocked, and that the skin area adjacent to the above-mentioned probes has no wrinkles.
-Check that the static ports are clear, not damaged and not blocked and the skin area adjacent to the static ports is not wrinkled.
 Verify “oxygen pressure relief green disc” is in place.
+Check that the static ports are clear, not damaged and not blocked and the skin area adjacent to the static ports is not wrinkled.
 Verify doors and access panels are latched if not in use.
 Let's move to the front of the right wing root now.
 
@@ -67,5 +67,78 @@ Verify the leading edge flaps are retracted.
 
 ## Number 2 Engine
 
+Verify the left side of the engine exterior, including the bottom of the nacelles, is not damaged, the access panels are secured, and the reversers are stowed.
+Fluid leaks from the engine drains are allowed provided the leaks are less than a continuous stream.
+Verify the fan cowls are latched.
+Probes, sensors, ports, vents, and drains (as applicable) - check.
+Verify that the inlet cowling is free of snow and ice.
+Verify that the fan is free to rotate.
+Check the number of screws securing the spinner.
+Verify the right side of the engine exterior, including the bottom of the nacelles, is not damaged, the access panels are secured, and the reversers are stowed.
+Exhaust area and tailcone - Check
 
+<AudioPlayer src= "/Boeing/737ExteriorInspection/007 Right Engine.mp3"></AudioPlayer>
 
+## Right Wing and Leading Edge
+
+As we walk along the leading edge of the wing, check the access panels and the Leading edge flaps and slats and wing surfaces.
+Fuel measuring sticks flush and secure.
+Check the fuel tank vent.
+Let's move on to the right side of the right wing.
+
+<AudioPlayer src= "/Boeing/737ExteriorInspection/008 Right Wing and Leading Edge.mp3"></AudioPlayer>
+
+## Right Wing Tip and Trailing Edge
+
+Check the Position, winglet aft marker, and strobe lights.
+Check Static discharge wicks.
+Check the Aileron and trailing edge flaps as we move on to the right main gear.
+
+<AudioPlayer src= "/Boeing/737ExteriorInspection/009 Right Wing Tip and Trailing Edge.mp3"></AudioPlayer>
+
+## Right Main Gear
+
+Verify that the wheel chocks are in place as needed.
+If the parking brake is set, the brake wear indicator pins must extend out of the guides.
+Verify the landing gear struts are not fully compressed.
+Check the actuators and gear doors.
+Verify hydraulic lines are secured.
+Verify the tires show no excessive wear, damage, or tread detachment as we walk to the front side of the tires.
+Check the gear pins.
+Now let's go in side the right main wheel well.
+
+<AudioPlayer src= "/Boeing/737ExteriorInspection/010 Right Main Gear.mp3"></AudioPlayer>
+
+## Right Main Wheel Well
+
+Verify APU FIRE CONTROL handle is up.
+Verify that the NGS operability indicator light is green.
+Check the other components in the wheel-well.
+Lef's now move on to the right aft fuselage.
+
+<AudioPlayer src= "/Boeing/737ExteriorInspection/011 RIght wheel well.mp3"></AudioPlayer>
+
+## Right Aft Fuselage
+
+Verify the doors and access panels if not in use are latched.
+Verify the negative pressure relief door is closed.
+Check the outflow valve.
+Check the probes, sensors, ports, vents, and drains (as applicable)
+Check the APU air inlet.
+
+<AudioPlayer src= "/Boeing/737ExteriorInspection/012 Right Aft Fuselage.mp3"></AudioPlayer>
+
+## Tail
+
+Check the Elevator-feel-probes on the right side.
+Check the vertical stabilizer and horizontal stabilizer.
+From the aft of the tail, check the rudder and the elevator.
+Check Static discharge wicks on the top and right side.
+Verify that the tail skid is not damaged.
+Check the position and strobe lights.
+Check APU exhaust outlet .
+From the left side of the tail, check the Static discharge wicks.
+Check vertical stabilizer and horizontal stabilizer.
+Check the Elevator-feel-probes on the left side.
+
+<AudioPlayer src= "/Boeing/737ExteriorInspection/013 Tail.mp3"></AudioPlayer>
