@@ -153,6 +153,8 @@ Check the Probes, sensors, ports, vents, and drains as applicable.
 
 Now let's go check the left main gear.
 
+<AudioPlayer src= "/Boeing/737ExteriorInspection/014 Left Aft Fuselage.mp3"></AudioPlayer>
+
 ## Left Main Gear
 
 Verify that the wheel chocks are in place as needed.
@@ -164,10 +166,14 @@ Verify the tires show no excessive wear, damage, or tread detachment and check t
 Check the gear pins.
 Now let's go in side the left wheel-well.
 
+<AudioPlayer src= "/Boeing/737ExteriorInspection/015 Left Main Gear.mp3"></AudioPlayer>
+
 ## Left Main Wheel Well
 
 Check the Engine fire bottle pressure and other portions of the wheel well.
 Now let's go check the left wing.
+
+<AudioPlayer src= "/Boeing/737ExteriorInspection/016 Left Main Wheel Well.mp3"></AudioPlayer>
 
 ## Left Wing Tip and Trailing Edge
 
@@ -175,12 +181,16 @@ Check the trailing edge flaps and Aileron as we move toward the wingtip.
 Check Static discharge wicks.
 Check the Position, winglet aft marker, and strobe lights.
 
+<AudioPlayer src= "/Boeing/737ExteriorInspection/017 Left Wing Tip and Trailing Edge.mp3"></AudioPlayer>
+
 ## Left Wing and Leading Edge
 
 Check the fuel tank vent.
 Fuel measuring sticks flush and secure.
 As we walk along the leading edge of the wing, check the access panels and the Leading edge flaps and slats and wing surfaces.
 Now let's check Number 1 engine.
+
+<AudioPlayer src= "/Boeing/737ExteriorInspection/018 Left Wing and Leading Edge.mp3"></AudioPlayer>
 
 ## Number 1 Engine
 
@@ -194,6 +204,8 @@ Verify that the fan is free to rotate.
 Check the number of screws securing the spinner.
 Verify the right side of the engine exterior, including the bottom of the nacelles, is not damaged, the access panels are secured, and the reversers are stowed.
 
+<AudioPlayer src= "/Boeing/737ExteriorInspection/019 Number 1 Engine.mp3"></AudioPlayer>
+
 ## Left Wing Root, Pack, and Lower Fuselage
 
 Verify the leading edge flaps are retracted.
@@ -201,3 +213,5 @@ Verify both the fixed and retractable landing light lenses are clean and not dam
 Pack and pneumatic access doors, Secure.
 Ram air deflector door, extended.
 Verify the VHF and radio altimeter antennas are not damaged.
+
+<AudioPlayer src= "/Boeing/737ExteriorInspection/020 Left Wing Root, Pack, and Lower Fuselage.mp3"></AudioPlayer>
